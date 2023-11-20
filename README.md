@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSn9fow7eBN0m56_6RXWr6k6DW5FjF757M-CoydabLbXDo0CjLA)
+![MasterHead](https://accelerationeconomy.com/wp-content/uploads/2023/08/Generative-AI-DevOps-DataOps.jpg)
 <h1 align="center">Hi 👋, I'm Vincent James</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://appinventiv.com/wp-content/uploads/sites/1/2022/10/cloud-vs-devops-in-2023.gif">
